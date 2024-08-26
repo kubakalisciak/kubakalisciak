@@ -1,4 +1,1 @@
-# Hi, I'm Kuba
-I am learning webdev with TOP.
-I like gaming, maths, public transit and reading. I also like urban planing and transit diagrams. I love speaking English.
-I'm from Poland🇵🇱 and I'm in Polish grade 7. My birthday is March 15th. I have a sister and two guinea pigs.
+[CS50P Certificate](https://cs50.harvard.edu/certificates/7c6d4980-3e42-4eb6-b4aa-6417c87074ec)
